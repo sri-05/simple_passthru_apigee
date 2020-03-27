@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="passthru">
+    <Basepaths>/passthru</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1585293577000</CreatedAt>
+    <CreatedBy>sridhara.kb@digitalapicraft.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>passthru</DisplayName>
+    <LastModifiedAt>1585293577000</LastModifiedAt>
+    <LastModifiedBy>sridhara.kb@digitalapicraft.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:7ea7f7e07bb6f457a34beb0ca822142742abea2730a67c2b43327ff2659b8cd421973d9dfaab962304685729ee0d4acb5804b45933961e440c78d1f75e1ab9e1</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>
